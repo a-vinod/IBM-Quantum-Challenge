@@ -1,2 +1,4 @@
 # IBM-Quantum-Challenge
-Solutions to the IBM Quantum Challenge (#4 still being optimized)
+This repo holds my solutions to the [IBM Quantum Challenge](https://quantum-computing.ibm.com/challenges/4anniversary). 
+
+Current Score for #4: 1,450
